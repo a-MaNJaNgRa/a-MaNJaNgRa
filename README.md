@@ -1,5 +1,5 @@
- Hi, I’m Aman pre final year CSE fresher
- I’m currently learning Blockchain Technology
+- Hi, I’m Aman pre final year CSE fresher
+- I’m currently learning Blockchain Technology
 
 
 <!---
