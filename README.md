@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @a-MaNJaNgRa
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Blockchain Technology
+ Hi, I’m Aman pre final year CSE fresher
+ I’m currently learning Blockchain Technology
 
 
 <!---
